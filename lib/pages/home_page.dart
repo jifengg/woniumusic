@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_template/pages/simple-widgets/simple_dialog_demo_page.dart';
-import 'package:flutter_template/pages/simple-widgets/simple_table_view_demo_page.dart';
+import 'package:woniu_music/pages/simple-widgets/simple_dialog_demo_page.dart';
+import 'package:woniu_music/pages/simple-widgets/simple_table_view_demo_page.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

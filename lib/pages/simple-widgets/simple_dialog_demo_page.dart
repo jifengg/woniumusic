@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_template/simple-widgets/simple_dialog.dart';
+import 'package:woniu_music/simple-widgets/simple_dialog.dart';
 
 class SimpleDialogDemoPage extends StatefulWidget {
   const SimpleDialogDemoPage({super.key});

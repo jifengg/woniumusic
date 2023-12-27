@@ -1,6 +1,6 @@
 {
-    "name": "flutter_template",
-    "short_name": "flutter_template",
+    "name": "woniu_music",
+    "short_name": "woniu_music",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

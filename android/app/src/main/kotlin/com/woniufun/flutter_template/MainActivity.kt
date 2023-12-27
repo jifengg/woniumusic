@@ -1,4 +1,4 @@
-package com.woniufun.flutter_template
+package com.woniufun.woniu_music
 
 import io.flutter.embedding.android.FlutterActivity
 

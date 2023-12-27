@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_template/simple-widgets/simple_table_view.dart';
+import 'package:woniu_music/simple-widgets/simple_table_view.dart';
 
 class SimpleTableViewDemoPage extends StatefulWidget {
   const SimpleTableViewDemoPage({super.key});
